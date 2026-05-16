@@ -10,10 +10,14 @@ A estrutura do repositório é dividida em pastas correspondentes a cada institu
 
 ---
 
-## Cursos Concluídos / Em Andamento
-
 ### 1. Fundação Bradesco - Desenvolvimento Web (Site Simples)
+
+<details>
+<summary>Clique aqui para ver os detalhes do curso</summary>
+
 * **Status:** Concluído
 * **Tecnologias:** HTML5, CSS3, JavaScript (Vanilla)
-* **Descrição:** Projeto prático de uma lista de tarefas (Task List). O foco foi a estruturação semântica, o uso de variáveis nativas do CSS para a criação de um sistema de temas dinâmico e a manipulação do DOM via JavaScript para alternar entre os modos Claro (Light) e Escuro (Dark).
+* **Descrição:** Projeto prático de uma lista de tarefas (Task List)...
 * **Pasta do projeto:** `/fundacao-bradesco-site-simples`
+
+</details>
